@@ -1,6 +1,6 @@
 ''' Step 1 in ML:
-1. Dividing the dataset(both features & labels) into training & test
-2.
+Dividing the dataset(both features & labels) into training & test
+
 
 
 '''
